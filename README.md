@@ -1,5 +1,4 @@
 # workshop
 author manan kashyap
-git and gitgub
+git and github
 
-my name is manan kahsyap
